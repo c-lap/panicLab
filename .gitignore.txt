@@ -1,0 +1,19 @@
+# File compilati
+*.class
+
+# File di Log
+*.log
+
+# Cartelle di build (Maven/Gradle)
+target/
+build/
+.gradle/
+
+# Configurazioni IDE (IntelliJ, Eclipse, VS Code)
+.idea/
+*.iml
+.metadata
+.classpath
+.project
+.settings/
+.vscode/
