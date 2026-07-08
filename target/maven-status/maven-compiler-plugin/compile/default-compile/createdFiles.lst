@@ -16,4 +16,5 @@ com\mycompany\paniclab\Model\Enums\ColorePartenza.class
 com\mycompany\paniclab\Utils\GeneratoreCarte.class
 com\mycompany\paniclab\Model\Enums\Fantasia.class
 com\mycompany\paniclab\Model\Enums\ColoreAmeba.class
+com\mycompany\paniclab\PanicLab$1.class
 com\mycompany\paniclab\Model\Giocatore.class
